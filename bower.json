@@ -1,0 +1,22 @@
+{
+  "name": "Weather",
+  "description": "Weather App",
+  "main": "index.js",
+  "authors": [
+    "surya"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Weather",
+    "App",
+    "smmalapaka"
+  ],
+  "homepage": "https://github.com/smmalapaka/Weather",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
